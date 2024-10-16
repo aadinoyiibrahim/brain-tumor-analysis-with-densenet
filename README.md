@@ -3,7 +3,7 @@ There a total of 7023 MRI scans of brains split into four classes. Transfer lear
 
 Data source: https://www.kaggle.com/datasets/rm1000/brain-tumor-mri-scans/data
 
-# The dataset consists of brain tumor MRI scans, which were used for a multi-class classification task. The data was loaded and processed into appropriate formats using `tf.keras.preprocessing.image_dataset_from_directory`, ensuring that images were resized to 224x224 and batched efficiently.
+The dataset consists of brain tumor MRI scans, which were used for a multi-class classification task. The data was loaded and processed into appropriate formats using `tf.keras.preprocessing.image_dataset_from_directory`, ensuring that images were resized to 224x224 and batched efficiently.
 
 <p align="center">
 <img src ="./img/brain_tumor.png"><br>
